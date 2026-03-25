@@ -1,59 +1,71 @@
-# 🚀 Hey there! I’m **Xavier Rodrigues** 👨‍💻
+# 🚀 Hey there! I’m Xavier Rodrigues 👨‍💻  
 
-### 🔥 **Devops Engineer| Web Developer | JavaScript Enthusiast** | **Real-World Problem Solver**
+### 🔥 DevOps Engineer | MERN Stack Developer | JavaScript Enthusiast | Problem Solver  
 
-Welcome to my GitHub profile! I love solving real-world problems through code, especially on the frontend. Whether it's creating dynamic websites or building sleek, interactive web apps, I’m always up for the challenge. 😎
-
----
-
-### 👨‍💻 **About Me**:
-- **I’m a frontend web developer** who loves working with **JavaScript** and diving deep into its core concepts.
-- **Passionate about UI/UX design**, creating intuitive and visually appealing user interfaces.
-- **MCA dropout**, but don't let that define me—I completed my **BCA from St. Xavier's College** and have learned so much through hands-on projects and internships. 📚
-- Proud to have completed an **internship with IBM SkillsBuild**, where I worked on developing real-world applications and learned from some of the best in the industry! 🚀
+Welcome to my GitHub profile! I specialize in building real-world applications using the **MERN stack** and scaling them with **DevOps practices**. From developing dynamic web apps to deploying production-ready systems, I enjoy working across the full development lifecycle. 😎  
 
 ---
 
-### 🌱 **What I’m Currently Learning**:
-- Exploring **React** and **Node.js** to build full-stack applications and **Web APIs**.
-- **UI/UX principles** to improve the usability of my web applications.
-- Going deeper into **JavaScript** (ES6+) to master all its powerful features!
+## 👨‍💻 About Me  
+- 🚀 MERN Stack Developer transitioning into **DevOps Engineering**  
+- 💡 Strong foundation in **JavaScript (ES6+), React, Node.js**  
+- ⚙️ Passionate about **CI/CD, automation, and cloud infrastructure**  
+- 🎯 Focused on building **scalable, reliable, and efficient systems**  
+- 🎓 BCA Graduate from St. Xavier's College  
+- 🌍 Completed **IBM SkillsBuild Internship**  
 
 ---
 
-### 💡 **Skills**:
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
-- **Tools & Platforms**: VS Code, Chrome DevTools, Netlify, 
+## 🌱 Currently Learning  
+- ☁️ AWS (EC2, S3, Deployment)  
+- 🐳 Docker & Containerization  
+- 🔁 CI/CD Pipelines (GitHub Actions)  
+- 📊 Monitoring & Performance Optimization  
 
 ---
 
-### 🚀 **Featured Projects**:
-1. **Real-Estate Virtual Assistant** - A smart assistant for real estate tasks like property search and price prediction using AI.
-2. **Certificate Issuer** - MERN stack app where admins can upload and manage certificates for students.
-3. **SetGoal.AI** - A sustainable energy efficiency goal-setting platform.
+## 💡 Skills  
 
-You can explore these projects in my [repositories](https://github.com/Xavierrodgriues) 💼
+### 🖥️ Development  
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, MySQL  
 
----
-
-### 📫 **Get in Touch**:
-- **LinkedIn**: [Xavier Rodrigues]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/xavier-rodrigues-70950a254/))
-- **Email**: [xavierrodgriues123@gmail.com]
-- **Website/Portfolio**: [https://xavierrodgriues.netlify.app/]
-
----
-
-### ⚡ **Fun Fact**:
-- I love solving coding challenges and have a deep passion for learning new technologies, especially in JavaScript. When I’m not coding, you’ll probably find me reading about the latest in web development, or experimenting with new libraries and frameworks. 📚✨
+### ⚙️ DevOps & Tools  
+- Version Control: Git, GitHub  
+- CI/CD: GitHub Actions (Basics)  
+- Containerization: Docker  
+- Cloud: AWS (Basics)  
+- Tools: VS Code, Chrome DevTools, Netlify  
 
 ---
 
-> **Let's Build Something Amazing Together! 🚀**
+## 🚀 Featured Projects  
 
-<!---
-Xavierrodgriues/Xavierrodgriues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏡 Real-Estate Virtual Assistant  
+AI-powered assistant for property search and price prediction  
+
+### 📜 Certificate Issuer (MERN)  
+Admin dashboard to upload and manage student certificates  
+
+### 🌱 SetGoal.AI  
+Platform for sustainable energy efficiency goal tracking  
+
+### ⚙️ DevOps Project (Coming Soon)  
+Dockerized MERN app with CI/CD pipeline & cloud deployment  
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/xavier-rodrigues-70950a254/  
+- 📧 Email: xavierrodgriues123@gmail.com  
+- 🌐 Portfolio: https://xavierrodgriues.netlify.app/  
+
+---
+
+## ⚡ Fun Fact  
+I don’t just build apps — I make sure they **deploy, scale, and run efficiently**. 🚀  
+
+---
+
+> 💬 *"Code it. Deploy it. Scale it."*
