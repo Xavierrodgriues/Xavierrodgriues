@@ -1,6 +1,6 @@
 # 🚀 Hey there! I’m **Xavier Rodrigues** 👨‍💻
 
-### 🔥 **Frontend Web Developer | JavaScript Enthusiast** | **Real-World Problem Solver**
+### 🔥 **Devops Engineer| Web Developer | JavaScript Enthusiast** | **Real-World Problem Solver**
 
 Welcome to my GitHub profile! I love solving real-world problems through code, especially on the frontend. Whether it's creating dynamic websites or building sleek, interactive web apps, I’m always up for the challenge. 😎
 
